@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lakshya</h1>
 <h3 align="center">Backend Developer (currently using Python) | Computational Gas Dynamics |</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyabamne&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyabamne" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshyabamne" alt="lakshyabamne" /></a> </p>
-
-- 🔭 I’m currently working on a Course Project [- A Grocery Store (MAD-1)](https://github.com/lakshyaBamne/GroceryStoreV1-MAD1)
+- 🔭 I’m currently working on a Course Project [Grocery Store (MAD-1)](https://github.com/lakshyaBamne/GroceryStoreV1-MAD1)
 
 - 🌱 I’m currently learning **Flask, VueJs, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [my github](https://github.com/lakshyaBamne)
+- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/lakshyaBamne)
 
 - 📫 How to reach me **lakshyabamne181@gmail.com**
 
