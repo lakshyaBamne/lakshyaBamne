@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/lakshyaBamne)
 
-- 📫 How to reach me **lakshyabamne181@gmail.com**
-
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1A2ipgnBy4SdYIL0LOVOmFyrm5TK0w2vG/view?usp=sharing)
 
 - ⚡ Fun fact **I have binged Lord of the Ring trilogy more than 5 times!!**
